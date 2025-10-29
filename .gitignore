@@ -2,3 +2,6 @@
 /csv_files-20251007T083047Z-1-001
 /csv_files-20251007T083047Z-1-001.zip
 /sql_load-20251007T084133Z-1-001.zip
+.vscode/
+postgres.session.sql
+sql_course.session.sql 
