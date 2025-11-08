@@ -89,7 +89,9 @@ Here's the breakdown of the top data analyst jobs in 2023:
 
 <br>
 
-![Top Paying Roles](assets/Chart_1_top_paying_jobs.png)
+<p align="center">
+   <img src="assets/Chart_1_top_paying_jobs.png" alt="Top Paying Roles" width=70%>
+</p>
 *Bar graph visualizing the salary for the top 10 highest-paying Data Analyst roles; graph was generated using my SQL query results with the help of copilot.*
 
 ### 2. Skills for Top Paying Jobs
