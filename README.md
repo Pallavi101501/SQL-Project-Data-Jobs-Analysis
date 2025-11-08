@@ -317,3 +317,10 @@ Here are the key next steps I plan to take:
 - Use **Python or Power BI** for more advanced data visualization and interactive dashboards.
 - Transition the project into a **SQL + Python workflow**, applying libraries like Pandas and Plotly for deeper insights.
 - Continue refining my SQL techniques to handle larger and more complex data pipelines.
+
+## Credits 
+
+This project was inspired and guided by the SQL learning series from [Luke Barousse]() on YouTube.
+
+The dataset used for this analysis was also provided as part of his SQL course materials.
+
