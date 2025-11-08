@@ -144,7 +144,9 @@ Here's the breakdown of the most demanded skills for the top 10 highest paying d
 
 In summary, a blend of **SQL, Python, and visualization tools (Tableau/PowerBI)** dominate the high-paying roles, with **cloud and data pipeline tools** increasingly appearing as desirable extras.
 
-![Top Paying Skills](assets/Chart_2_top_paying_job_skills.png)
+<p align="center">
+   <image src="assets/Chart_2_top_paying_job_skills.png" alt="Top Paying Skills" width=70%>
+</p>
 *Bar graph visualizing the most demanded skills for the top-paying Data Analyst roles. The graph was generated using my SQL dataset result with the help of copilot.*
 
 
