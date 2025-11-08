@@ -320,7 +320,7 @@ Here are the key next steps I plan to take:
 
 ## Credits 
 
-This project was inspired and guided by the SQL learning series from [Luke Barousse]() on YouTube.
+This project was inspired and guided by the SQL learning series from [Luke Barousse](https://www.youtube.com/@LukeBarousse) on YouTube.
 
 The dataset used for this analysis was also provided as part of his SQL course materials.
 
