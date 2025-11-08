@@ -186,7 +186,11 @@ Here are some quick insights from your dataset:
 
 These trends suggest that combining strong data querying (SQL), analysis (Python/Excel), and visualization (Tableau/Power BI) skill is key to staying competitive in the data analyst job market.
 
-![Most In-Demand Skills](assets/Chart_3_most_demanded_skills.png)
+
+<p align="center">
+   <img src="assets/Chart_3_most_demanded_skills.png" alt="Most In-Demand Skills" width=70%>
+</p>
+
 *Bar graph above visualizes the most demanded skills for Data Analyst job roles. Graph is generated using my SQL query dataset result with the help of copilot.*
 
 ### 4. Top Paying Skills
@@ -275,7 +279,10 @@ Here's the breakdown of the insights from the dataset result :
 
 <br>
 
-![Optimal Skills](assets/Chart_5_optimal_skills.png)
+<p align="center">
+   <img src="assets/Chart_5_optimal_skills.png" alt="Optimal Skills" width=70%>
+</p>
+
 *The Chart above visualizes the most optimal skills (high average salary and high demand). The graph is generated using my SQL dataset result with the help of copilot.*
 
 ## What I learned 
